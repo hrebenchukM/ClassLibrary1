@@ -2,6 +2,6 @@
 {
     public interface InterfaceLoad
     {
-
+        public string LoadText();
     }
 }
