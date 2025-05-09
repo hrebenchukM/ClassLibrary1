@@ -2,6 +2,6 @@
 {
     public interface InterfaceSave
     {
-      
+        public void SaveText(string s);
     }
 }
