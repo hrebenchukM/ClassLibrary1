@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DLL
 {
-    internal class Form1
+    public class Form1
     {
     }
 }
