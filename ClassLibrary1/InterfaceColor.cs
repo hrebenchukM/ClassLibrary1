@@ -9,6 +9,6 @@ namespace ClassLibrary1
 {
     public interface InterfaceColor
     {
-
+        public Color SelectColor();
     }
 }
